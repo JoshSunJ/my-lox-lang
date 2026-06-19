@@ -1,0 +1,11 @@
+# Compiled binaries
+*.exe
+*.exe~
+*.dll
+*.so
+*.dylib
+golox/golox
+gocompiler/gocompiler
+
+# OS files
+.DS_Store
