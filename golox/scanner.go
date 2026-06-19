@@ -1,1 +1,1 @@
-package golox
+package main
